@@ -1,0 +1,61 @@
+catHTML
+What does HTML stand for?
+HYPERTEXTLANGUAGE
+HTML uses
+Fixed tags defined by the LANGUAGE	
+The year in which HTML was first proposed _______.
+1990
+Fundamental HTML Block is known as ___________.
+HTML Attribute
+Apart from <b> tag, what other tag makes text bold ?
+<fat>
+Who is Known as the father of World Wide Web (WWW)?
+Robert Cailliau
+What should be the first tag in any HTML document?
+<html>
+How can you make a bulleted list with numbers?
+<list>
+What tag is used to display a picture in a HTML page?
+image
+HTML web pages can be read and rendered by _________.
+Interpreter
+catJAVA
+This Section of our 1000+ Java MCQs focuses on Integer and Floating Datatypes of Java Programming Language.
+-32768 to 32767
+What is the range of byte data type in Java?
+-2147483648 to 2147483647
+An expression involving byte, int, and literal numbers is promoted to which of these?
+long
+Which of these literals can be contained in float data type variable?
++1.7e+308
+Which data type value is returned by all transcendental math functions?
+int
+What will be the output of the following Java statement?
+NaN
+Which of these is an incorrect array declaration?
+ int arr[] = new int[5]
+Which of these is an incorrect Statement?
+Array can be initialized when they are declared
+How to format date from one form to another?
+SimpleDateFormat
+catCANADA	
+What is the capital of Canada? 
+Ottawa
+Which Canadian province has the highest population?
+Ontario
+What is the national animal of Canada?
+Grizzly Bear
+What is the capital of Manitoba?
+Edmonton
+What British sea captain charted the coast of British Columbia in the 1790s?
+George Vancouver
+What province did not join Canada until 1949?
+Saskatchewan
+What country kicked out Canada's ambassador after the Canadian government called for the release of two dissidents in 2018?
+Peru
+Which French territory is located just 8 kilometers off the coast of Newfoundland?
+Saint Barthélemy
+About what percent of Canadians speak French as a first language?
+36
+Which of these is NOT a current NHL hockey team?
+Vancouver Canucks
